@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Partest is the testing framework used to regression-test the Scala compiler and standard library.
 
 **NOTE**: As of Scala 2.13, Partest is back in the scala/scala repository. See the history below.
@@ -91,3 +92,7 @@ definedTests in Test += (
   - `partest.cwd`: partest working dir
   - `partest.test-path`
   - `partest.testname`
+=======
+# scala-partest
+Legacy repo for testing framework for Scala versions &lt;= 2.12
+>>>>>>> 37036f2ed5ddc2eb0e5c6918187e1f8e42cd15f5
